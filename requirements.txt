@@ -1,0 +1,43 @@
+# AI Employee — Silver Tier Dependencies
+# Install: pip install -r requirements.txt
+#
+# Python >= 3.10 required
+# Tested on Python 3.11, 3.12, 3.13
+
+# ── Core dependencies ─────────────────────────────────────────
+# Filesystem event monitoring for the Vault Watcher
+watchdog>=4.0.0
+
+# Environment variable loading (.env files)
+python-dotenv>=1.0.0
+
+# ── Silver Tier: Claude Code reasoning ───────────────────────
+# Claude API SDK (used by Claude Code for task classification,
+# email drafting, LinkedIn content, and CEO briefing)
+anthropic>=0.40.0
+
+# ── Silver Tier: Gmail Integration ────────────────────────────
+# Google Gmail API for email monitoring (gmail_watcher.py)
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+
+# ── Silver Tier: LinkedIn Browser Automation ──────────────────
+# Playwright for LinkedIn posting when API is unavailable
+# After pip install: run "playwright install chromium"
+playwright>=1.40.0
+
+# ── Silver Tier: HTTP Client ──────────────────────────────────
+# For LinkedIn API calls and any external HTTP requests
+httpx>=0.27.0
+
+# ── Standard library modules (no install needed) ──────────────
+# os, sys, shutil, hashlib, logging, signal, json, argparse
+# pathlib, datetime, time, typing, smtplib, ssl, email
+# subprocess, collections, re — all stdlib
+
+# ── Gold Tier dependencies (not needed for Silver) ────────────
+# schedule>=1.2.0          # Advanced scheduling (Gold+)
+# odoo-client>=1.0.0       # Odoo ERP integration (Gold)
+# facebook-sdk>=3.0.0      # Facebook/Instagram (Gold)
+# tweepy>=4.14.0           # Twitter/X integration (Gold)

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+*.egg-info/
+.eggs/
+
+# AI Employee — Silver Tier secrets (NEVER commit these)
+credentials.json
+gmail_token.json
+linkedin_session/
+token.json
+*_token.json
+*_credentials.json
+client_secret*.json
+
+# Optional
+.venv/
+venv/
+*.log

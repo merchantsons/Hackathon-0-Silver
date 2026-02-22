@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "d841a44765e79d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "f552866a06a60c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18fba215759ecaa4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b246f5d4a8ebcf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f4b32a59284d20f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f280e596a68eabfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35bafda17b0b5bff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18664729d70f20f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "170fefd25e186b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac665938d22a1b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e728e609b1b6925",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d0e24779026110ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8de14386ca2ac839",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79db0abff93db162",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "700f9e368d77a39f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f280e596a68eabfa",
+  "lastOpenFiles": [
+    "Logs/watcher.log",
+    "Skills/vault_writer.md",
+    "Dashboard.md",
+    "Skills/email_sender.md",
+    "Needs_Action/20260221_175745_EMAIL_New email urgent.md",
+    "Needs_Action.md",
+    "Pending_Approval.md",
+    "Approved.md",
+    "Needs_Action/20260221_003522_quarterly_report_meta.md",
+    "Needs_Action/20260221_003522_quarterly_report.txt",
+    "Inbox/quarterly_report.txt",
+    "Done/20260221_003330_20260221_003318_quarterly_report_meta.md",
+    "Done/20260221_003330_20260221_003318_quarterly_report.txt",
+    "Plans/20260221_003330_20260221_003318_quarterly_report_plan.md",
+    "Needs_Action/20260221_003318_quarterly_report_meta.md",
+    "Needs_Action/20260221_003318_quarterly_report.txt",
+    "Needs_Action/20260221_003208_quarterly_report_meta.md",
+    "Needs_Action/20260221_003208_quarterly_report.txt",
+    "Done/20260221_003030_20260221_002928_quarterly_report_meta.md",
+    "Done/20260221_003030_20260221_002928_quarterly_report.txt",
+    "Plans/20260221_003030_20260221_002928_quarterly_report_plan.md",
+    "Needs_Action/20260221_002928_quarterly_report_meta.md",
+    "Needs_Action/20260221_002928_quarterly_report.txt",
+    "Needs_Action/20260221_002704_quarterly_report_meta.md",
+    "Needs_Action/20260221_002704_quarterly_report.txt",
+    "Done/20260221_002634_20260221_002518_quarterly_report_meta.md",
+    "Done/20260221_002634_20260221_002518_quarterly_report.txt",
+    "Plans/20260221_002634_20260221_002518_quarterly_report_plan.md",
+    "Needs_Action/20260221_002518_quarterly_report_meta.md",
+    "Needs_Action/20260221_002518_quarterly_report.txt",
+    "Needs_Action/20260221_002147_quarterly_report_meta.md",
+    "Plans.md",
+    "Skills/dashboard_updater.md"
+  ]
+}
