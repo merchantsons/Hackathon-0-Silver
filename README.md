@@ -4,7 +4,7 @@
 > **Tier:** Silver (Functional Assistant) </br>
 > **Architecture:** Perception → Reasoning → Action → Orchestration </br>
 > **Status:** Production-ready </br>
-# > ** BY (MERCHANTSONS) GIAIC ROLL # 00037391** </br>
+# BY (MERCHANTSONS) GIAIC ROLL # 00037391</br>
 
 ---
 
