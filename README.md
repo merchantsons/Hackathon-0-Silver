@@ -1,10 +1,10 @@
 # 🤖 Personal AI Employee — Silver Tier
 
-> **Hackathon:** Personal AI Employee — Building Autonomous FTEs in 2026
-> **Tier:** Silver (Functional Assistant)
-> **Architecture:** Perception → Reasoning → Action → Orchestration
-> **Status:** Production-ready
-> **# BY (MERCHANTSONS) GIAIC ROLL # 00037391**
+> **Hackathon:** Personal AI Employee — Building Autonomous FTEs in 2026 </br>
+> **Tier:** Silver (Functional Assistant) </br>
+> **Architecture:** Perception → Reasoning → Action → Orchestration </br>
+> **Status:** Production-ready </br>
+# > ** BY (MERCHANTSONS) GIAIC ROLL # 00037391** </br>
 
 ---
 
